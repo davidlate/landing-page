@@ -1,0 +1,39 @@
+*{
+    font-family: sans-serif;
+    font: roboto;
+}
+
+.upper-header{
+    color: white;
+    background-color: #1f2937;
+    display: flex;
+}
+
+.header-link{
+    flex:1;
+    width:10px;
+}
+.header-logo{
+    flex:1
+}
+
+.description-container{
+    background-color: #1f2937;
+    color: white
+}
+
+.random-info-section{
+    background-color: white;
+    display: flex;
+
+}
+
+.image-list{
+    flex:1
+}
+
+#random-info{
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937
+}
