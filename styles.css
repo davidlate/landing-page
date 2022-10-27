@@ -6,7 +6,7 @@
 body{
     border: 0px;
     margin: auto;
-    background-color: teal;
+    background-color: #1f2937;
 }
 
 .top-section-container{
@@ -170,4 +170,23 @@ body{
 .right-call-to-action{
     flex:1;
     margin: auto;
+}
+
+.footer{
+    margin: auto;
+    padding: 20px 0px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #1f2937;
+    color: white;
+}
+
+.lower-button{
+    color: white;
+    border-color: white;
+    font-weight: bold;
+    padding: 5px 15px;
+    font: sans-serif;
+    border-radius: 5px;
+    background-color: #3882F6;
 }
